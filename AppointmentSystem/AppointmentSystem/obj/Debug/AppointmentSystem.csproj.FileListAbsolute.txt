@@ -1,0 +1,6 @@
+C:\Users\63945\Desktop\Appointment_System\AppointmentSystem\AppointmentSystem\obj\Debug\AppointmentSystem.csproj.AssemblyReference.cache
+C:\Users\63945\Desktop\Appointment_System\AppointmentSystem\AppointmentSystem\obj\Debug\AppointmentSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\63945\Desktop\Appointment_System\AppointmentSystem\AppointmentSystem\obj\Debug\AppointmentSystem.Form1.resources
+C:\Users\63945\Desktop\Appointment_System\AppointmentSystem\AppointmentSystem\obj\Debug\AppointmentSystem.Properties.Resources.resources
+C:\Users\63945\Desktop\Appointment_System\AppointmentSystem\AppointmentSystem\obj\Debug\AppointmentSystem.csproj.GenerateResource.cache
+C:\Users\63945\Desktop\Appointment_System\AppointmentSystem\AppointmentSystem\obj\Debug\AppointmentSystem.csproj.CoreCompileInputs.cache
